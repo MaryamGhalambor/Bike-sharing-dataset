@@ -14,3 +14,15 @@ The data has been made available by Motivate International Inc. under this licen
 This is public data that you can use to explore how different customer types are using Cyclistic bikes. 
 
 3) Process phase:
+Importing data to RStudio and checking the data for some errors, transforming and cleaning the data to be able to work with more efficiently.
+The full description would be accessible at:
+
+4) Analyze phase:
+In this step, by using R codes, targeted trends were drawn out for visualization purposes.
+
+5) Share phase:
+
+
+6) Act phase:
+
+
