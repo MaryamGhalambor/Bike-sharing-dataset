@@ -23,6 +23,7 @@ In this step, by using R codes, targeted trends were drawn out for visualization
 5) Share phase:
 Plotting different visualizations using R, to realise how casual riders differ from members.
 you can find four plots which explain the total number of different users, the percentage of different users with pie chart, the number of rides for different users per weekday and finally average ride length for both users during week.
+For more details, you can find final_report.html uploaded as a R Markdown Html file.
 
 6) Act phase:
 As recommendation, to convert more casual riders to members, offering special prices for renting bikes for more number of hours or days , on weekends and during the busiest days might be helpful.
